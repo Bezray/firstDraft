@@ -337,7 +337,7 @@ li{list-style: none}
 	text-align: center;
 }
 
-[class~="hot-search-"]:hover{
+[class*="hot-search-"]:hover{
 	background-color: orange;
 	color: #fff;
 }
